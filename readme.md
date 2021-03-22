@@ -8,7 +8,6 @@
 
 [小皮面板(phpstudy)](https://www.xp.cn/)作为配置服务器环境的工具。
 
-<img src="res\phpstudy.png" alt="image-20210320001103580" style="zoom:50%;" />
 
 只需要打开apache与mysql即可，apache作为Web服务器，它**侦听一个TCP端口，一般是80，对端口收到的命令进行解释，然后提交一些结果。**
 
